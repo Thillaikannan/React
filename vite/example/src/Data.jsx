@@ -8,6 +8,8 @@ const Data = () => {
     const [isloading , setIsLoading] = useState(true);
     const [error, setError] = useState();
 
+    
+
     useEffect(()=>{
     setTimeout(() => {
          let fetchData = async () =>{

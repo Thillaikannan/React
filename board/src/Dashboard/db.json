@@ -1,0 +1,120 @@
+{
+  "rides": [
+    {
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "0522",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "618b",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "9ca1",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "8e50",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "e596",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "a423",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "9e02",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "0486",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "dfaa",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "86cb",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "0d0d",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    },
+    {
+      "id": "8aef",
+      "userId": "USR12345",
+      "pickup": "Rajiv Gandhi Square",
+      "drop": "Central Mall",
+      "vehicleType": "bike",
+      "paymentMethod": "wallet",
+      "scheduledTime": "2025-08-01T10:30:00+05:30"
+    }
+  ]
+}

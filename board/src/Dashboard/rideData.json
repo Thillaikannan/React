@@ -1,0 +1,8 @@
+{
+  "userId": "USR12345",
+  "pickup": "Rajiv Gandhi Square",
+  "drop": "Central Mall",
+  "vehicleType": "bike",
+  "paymentMethod": "wallet",
+  "scheduledTime": "2025-08-01T10:30:00+05:30"
+}
